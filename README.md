@@ -1,2 +1,3 @@
 # CODSOFT
-Contains all the Internship Tasks
+Contains all the Internship Tasks for Machine Learning
+
